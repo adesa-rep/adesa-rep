@@ -21,6 +21,7 @@ Aquí encontraras proyectos que realizo en el grado, prácticas, scripts útiles
 
 ### ⚡ Fun fact:
 A lo largo del ciclo formativo me he vuelto un poco friki 😁 con los apuntes explorando herramientas como Notion y Obsidian hasta el punto de desplegar paginas con vercel utilizando plugins como Digital Garden o Flowershow.
+
 ![cat](https://res.cloudinary.com/ddodnuhoj/image/upload/w_100/Beluga_D_ongab1.jpg)
 
 
@@ -28,4 +29,5 @@ A lo largo del ciclo formativo me he vuelto un poco friki 😁 con los apuntes e
 ## 📈 GitHub stats !
 
 ![adesa-rep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adesa-rep&theme=merko&hide_border=true)
+
 ![adesa-rep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adesa-rep&theme=merko&show_icons=true&hide_border=true&layout=compact)

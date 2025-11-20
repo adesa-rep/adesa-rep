@@ -2,7 +2,7 @@
 
 ![Banner](https://res.cloudinary.com/ddodnuhoj/image/upload/v1763673957/Betterimage.ai_1729189432894__1_ifbqf5.jpg)  
 
-# ¡Hola! 👋 Soy Adriana
+# ¡Hola!
 
 **Estudiante de 2º ASIR** (Administración de Sistemas Informáticos en Red)  
 Actualmente cursando el Ciclo Superior en Prometeo ThePower.
@@ -20,7 +20,7 @@ Aquí encontraras proyectos que realizo en el grado, prácticas, scripts útiles
 - LinkedIn: [linkedin.com/in/adriana-de-sa](www.linkedin.com/in/adriana-de-sa-rodriguez-diaz-)
 
 ### ⚡ Fun fact:
-A lo largo del ciclo formativo me he vuelto un poco friki 😁 con los apuntes explorando herramientas como Notion y Obsidian hasta el punto de desplegar paginas con vercel utilizando plugins como Digital Garden o Flowershow.
+A lo largo del ciclo formativo me he vuelto un poco friki 😁 con los apuntes explorando herramientas como Notion y Obsidian. Actualmente, estoy desplegando paginas con mis apuntes a traves de vercel utilizando plugins como Digital Garden o Flowershow.
 
 ![cat](https://res.cloudinary.com/ddodnuhoj/image/upload/w_100/Beluga_D_ongab1.jpg)
 

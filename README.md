@@ -30,6 +30,6 @@ A lo largo del ciclo formativo me he vuelto un poco friki 😁 con los apuntes e
 
 ![adesa-rep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adesa-rep&theme=merko&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adesa-rep1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adesa-rep&theme=dark)](https://git.io/streak-stats)
 
 ![adesa-rep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adesa-rep&theme=merko&show_icons=true&hide_border=true&layout=compact)
